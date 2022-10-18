@@ -32,13 +32,16 @@
 
  
 Завдання 2.
- ![image](https://user-images.githubusercontent.com/115878528/196389868-ae298ea8-bdf5-4532-b4ff-186d605e87b7.png)
+ 
+![photo_2022-10-18_12-19-16](https://user-images.githubusercontent.com/115878528/196390543-e0968469-28de-4de9-9778-ae1aab7fcd78.jpg)
 
 Завдання 3.
- ![image](https://user-images.githubusercontent.com/115878528/196389989-8c46fccd-b24e-42f2-ae05-dadf5d20acd5.png)
+ 
+![photo_2022-10-18_12-20-09](https://user-images.githubusercontent.com/115878528/196390737-cc8938e3-83d8-465d-bc5e-af4ed1f3f1f9.jpg)
 
 Завдання 4.
- ![image](https://user-images.githubusercontent.com/115878528/196390059-80c503f8-b6a1-4df5-bcbd-ca3add43ba0b.png)
+ ![photo_2022-10-18_12-20-17](https://user-images.githubusercontent.com/115878528/196390779-a6184dcc-192e-4907-a333-c448fc0ca5a6.jpg)
+
 
 Завдання 5.
 1.	Додати в файл Readme звіт до лабораторної, щоб його можна було передивлятись на репозиторію коли переходиш у вітку.
